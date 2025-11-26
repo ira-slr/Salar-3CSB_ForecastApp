@@ -9,7 +9,7 @@ const Header = () => {
     <header className="app-header">
       <div className="header-container">
         <div className="logo-area">
-          <h1 className="header-title">Nexus Gaming Inventory</h1>
+          <h1 className="header-title">Tech Store Inventory</h1>
         </div>
         <nav>
           <span className="nav-link" onClick={() => handleNavClick('Dashboard')}>Dashboard</span>
